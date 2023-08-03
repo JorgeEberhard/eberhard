@@ -1,0 +1,20 @@
+body {
+    background-color: #272829;
+    color: #D8D9DA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+}
+
+.title {
+    align-self: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.profile-picture {
+    width: 300px;
+    border-radius: 20px;
+    border: #FFF6E0 3px solid;
+}
