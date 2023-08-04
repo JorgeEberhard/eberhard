@@ -18,3 +18,13 @@ body {
     border-radius: 20px;
     border: #FFF6E0 3px solid;
 }
+
+.links-table {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.table-row {
+    display: flex;
+}
